@@ -1,4 +1,4 @@
-# Encrypted RSA, SHA, AES & MD5
+# 🔐 Encrypted RSA, SHA, AES & MD5
 
 This time you can use the Telegram bot to generate encryption from several methods such as SHA-1, AES-128, AES-256, RSA and MD5 You only need to enter the text you want to encrypt and the results will come out perfectly
 
@@ -20,7 +20,7 @@ This bot is built using the following system:
 </p>
 
 
-## 🦖 Requirements 
+## 📋 Requirements 
 
 - for using this bot, requirements install needed for bot
 ```bash
@@ -40,7 +40,7 @@ apt install npm
 ```
 
 ```bash
-npm install node-telegram-bot-api dns
+npm install node-telegram-bot-api pycrypto crypto
 ```
 
 ## 🚀 Run this bot
@@ -48,11 +48,11 @@ npm install node-telegram-bot-api dns
 - Prepare youre API Token telegram.
 
 ```bash
-git clone https://github.com/naix0x/BotDNS.git dns
+git clone 
 ```
 
 ```bash
-cd dns
+cd encrypt
 ```
 
 ```bash
