@@ -6,16 +6,16 @@ Bot DNS lookup telegram, using nodejs and library dns resolver for using lookup 
 This Telegram bot is built using the following technologies:
 
 - 🚀 Nodejs - Language 
-- 🤖 Node Tele Api and DNS Library - Framework
-- 📨 Lookup Host/Domain - URL
+- 🤖 Crypto-JS- Framework
+- 📨 SHA, AES, RSA & MD5
 - 🗿 Demo image :
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/naix0x/BotDNS/main/Screenshot_20231112-164920_Telegram.jpg" />
+  <img src="ghhu" />
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/naix0x/BotDNS/main/Screenshot_20231112-164929_Telegram.jpg" />
+  <img src="jpg" />
 </p>
 
 
