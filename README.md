@@ -7,7 +7,7 @@ This time you can use the Telegram bot to generate encryption from several metho
 This bot is built using the following system:
 
 - 🚀 Nodejs - Language 
-- 🤖 Crypto-JS- Framework
+- 🤖 CryptoJS - Framework
 - 📨 SHA, AES, RSA & MD5
 - 🗿 Demo image :
 
