@@ -1,9 +1,10 @@
-# BotDNS
-Bot DNS lookup telegram, using nodejs and library dns resolver for using lookup A,AAAA,NS,MX,TXT,SOA etc
+# Encrypted RSA, SHA, AES & MD5
+
+This time you can use the Telegram bot to generate encryption from several methods such as SHA-1, AES-128, AES-256, RSA and MD5 You only need to enter the text you want to encrypt and the results will come out perfectly
 
 ## 💻 System
 
-This Telegram bot is built using the following technologies:
+This bot is built using the following system:
 
 - 🚀 Nodejs - Language 
 - 🤖 Crypto-JS- Framework
