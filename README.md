@@ -12,15 +12,7 @@ This bot is built using the following system:
 - 🗿 Demo image :
 
 ![Gambar Uji1](https://github.com/naix0x/Encrypt-Bot-Telegram/blob/main/Screenshot_20231114-220800_Telegram.jpg)
-
-<p align="left">
-  <img src="ghhu" />
-</p>
-
-<p align="right">
-  <img src="jpg" />
-</p>
-
+![Gambar Uji2](https://github.com/naix0x/Encrypt-Bot-Telegram/blob/main/Screenshot_20231114-221037_Telegram.jpg)
 
 ## 📋 Requirements 
 
