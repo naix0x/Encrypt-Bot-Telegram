@@ -11,6 +11,8 @@ This bot is built using the following system:
 - 📨 SHA, AES, RSA & MD5
 - 🗿 Demo image :
 
+![Gambar Uji1](https://github.com/naix0x/Encrypt-Bot-Telegram/blob/main/Screenshot_20231114-220800_Telegram.jpg)
+
 <p align="left">
   <img src="ghhu" />
 </p>
