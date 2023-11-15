@@ -90,3 +90,9 @@ This project is licensed under the [MIT License](https://github.com/naix0x/BotDN
 ## 👥 Forks and Stars
 
 If you find this project useful, please give it a star ⭐ and consider forking it 🍴 to support its development and help it reach a wider audience.
+
+[![Mustofa Bovalone](https://github.com/naix0x.png?size=100)](https://github.com/naix0x) |
+----|
+[Mustofa Bovalone](https://t.me/maticstable) |
+Author, Base, Bug Fixes  |
+
